@@ -5,7 +5,7 @@ viewing the source of certain webpages and using basic HTML and CSS knowledge.
 
 ### Solution
 1. Visit index.html
-2. Notice that the logo on the page has a broken link. View the source for the page and visit the "/orders/logo.png".
+2. Notice that the logo on the page has a broken link. View the source for the page and visit the `"/orders/logo.png"`.
 3. Notice the Error 404. Visit the parent directory "/orders/" via the URL bar.
 4. Scroll throught the directory listing. One of the files is saved as a .html file. Click on the link to this file.
 5. Click on the link to "escalated priviledges".
